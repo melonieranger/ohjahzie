@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eongiapai.ghostsforgold.com/sitemap.xml
